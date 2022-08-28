@@ -1,5 +1,5 @@
 # Flexible_Net
-This is an example of throughly connecting optuna's hyper-parameter tuning options with as many PyTorch neural net aspects as possible.
+This is an example of matching optuna's hyper-parameter tuning options with as many pytorh neural net hyper-parameters as possible.
 
 # Implementation's Tunable Parameters:
 1, Number of hidden layers.<br>
